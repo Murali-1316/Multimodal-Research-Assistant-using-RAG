@@ -1,4 +1,4 @@
-# Academia Multimodal RAG
+# Multimodal RAG
 
 An advanced multimodal Retrieval-Augmented Generation (RAG) system for academic research paper analysis, semantic document retrieval, and conversational AI over PDFs, tables, and images.
 
@@ -6,7 +6,7 @@ An advanced multimodal Retrieval-Augmented Generation (RAG) system for academic 
 
 ## Overview
 
-Academia Multimodal RAG is designed to process and analyze research documents using a hybrid retrieval pipeline that combines semantic search, keyword search, reranking, and multimodal reasoning.
+Multimodal RAG is designed to process and analyze research documents using a hybrid retrieval pipeline that combines semantic search, keyword search, reranking, and multimodal reasoning.
 
 The system supports:
 - PDF ingestion and analysis
